@@ -1,6 +1,6 @@
 <h1 align="center">Hey visitors 👋, I'm Indranil Saha</h1>
 <h3 align="center">A passionate growing developer from India</h3>
-<img align="right" alt="Coding" width="400" style="border-radius: 10px;" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding_gif" width="400" style="border-radius: 10px;" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indranilsaha2003&label=Profile%20views&color=0e75b6&style=flat" target="_blank" alt="indranilsaha2003" /> </p>
 
